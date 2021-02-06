@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"analytics","l":"analyticsCounter"},{"p":"analytics","l":"countOccur"},{"p":"analytics","l":"readSymptomDataFromFile"},{"p":"analytics","l":"sortAndWrite"}];updateSearchResults();
